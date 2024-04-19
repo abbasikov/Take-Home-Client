@@ -1,0 +1,7 @@
+.navbar-brand {
+    display: flex !important;
+}
+
+.layout {
+    height: 100vh;
+}
